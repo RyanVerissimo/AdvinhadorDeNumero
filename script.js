@@ -23,8 +23,3 @@ function goBack() {
     document.querySelector(".screen2").classList.toggle("hide")
     location.reload()
 }
-
-
-/*guardar number de 0 a 10,
-usuario vai digitar um numero e tentar acertar
-quando acertar, tira o hide do screen e colar no outro com quantas vezers foi tentada*/
